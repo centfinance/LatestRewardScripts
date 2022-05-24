@@ -1,0 +1,28 @@
+[
+    {
+        "id": "0x3db4fd8a3aede7e2e91e1aa399db39dfe2028470",
+        "publicSwap": true,
+        "swapFee": "0.0015",
+        "controller": "0x1948363ab1d5C8D73B3CEbA41e14768f8bA90E71",
+        "createTime": 1644449909,
+        "tokensList": [
+            "0x471ece3750da237f93b8e339c536989b8978a438",
+            "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58"
+        ],
+        "totalShares": "101.345013216007101425",
+        "shareHolders": [
+            "0x035770CF7E97e483D08053A5Df2620802f13FEb4",
+            "0x0DAcfC02FFd757668825fEd70c19fC1749746566",
+            "0x1948363ab1d5C8D73B3CEbA41e14768f8bA90E71",
+            "0x2949d0157Ef65a9226a4A0E0cFd0Ac52433520d9",
+            "0x3db4Fd8A3Aede7e2e91E1AA399db39DFE2028470",
+            "0x4C7F4aa6D1cEb00D736Cc50F6e1C56ebb58A8C6e",
+            "0x507CC427C8Fba38b81E891549189E6718862Af45",
+            "0x62C06ebcE770F7166F726FAb4924940ADB520EEc",
+            "0x6C2e59C3cCB1d81c0eC9Fb9d4d6a3CC3488Fd71c",
+            "0x9C2DA0E9BC6F01D4fde359C8fbB8837300a3EcB0",
+            "0xc619dF868a695e54a39e9C3CF055941D435d0361",
+            "0xDEecB9518AD8Bc1633c2dCe5dc7a392C0bE0768f"
+        ]
+    }
+]

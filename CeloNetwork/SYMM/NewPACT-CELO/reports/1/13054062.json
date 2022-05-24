@@ -1,0 +1,54 @@
+[
+    {
+        "0x2949d0157Ef65a9226a4A0E0cFd0Ac52433520d9": [
+            {
+                "pool": "0x3db4fd8a3aede7e2e91e1aa399db39dfe2028470",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "0.64",
+                "wrapFactor": "1",
+                "valueUSD": "1.700642331699116278",
+                "factorUSD": "1.086881589872345121"
+            }
+        ],
+        "0x4C7F4aa6D1cEb00D736Cc50F6e1C56ebb58A8C6e": [
+            {
+                "pool": "0x3db4fd8a3aede7e2e91e1aa399db39dfe2028470",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "0.64",
+                "wrapFactor": "1",
+                "valueUSD": "15.733546488722564374",
+                "factorUSD": "10.055319512662063869"
+            }
+        ],
+        "0x507CC427C8Fba38b81E891549189E6718862Af45": [
+            {
+                "pool": "0x3db4fd8a3aede7e2e91e1aa399db39dfe2028470",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "0.64",
+                "wrapFactor": "1",
+                "valueUSD": "0.036247046851038037",
+                "factorUSD": "0.023165510569334533"
+            }
+        ],
+        "0x62C06ebcE770F7166F726FAb4924940ADB520EEc": [
+            {
+                "pool": "0x3db4fd8a3aede7e2e91e1aa399db39dfe2028470",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "0.64",
+                "wrapFactor": "1",
+                "valueUSD": "1298.904401782508607859",
+                "factorUSD": "830.130624756983350246"
+            }
+        ]
+    },
+    {
+        "0x2949d0157Ef65a9226a4A0E0cFd0Ac52433520d9": "0.000015993960843044",
+        "0x4C7F4aa6D1cEb00D736Cc50F6e1C56ebb58A8C6e": "0.000147968636186673",
+        "0x507CC427C8Fba38b81E891549189E6718862Af45": "0.000000340891107557",
+        "0x62C06ebcE770F7166F726FAb4924940ADB520EEc": "0.012215752691638005"
+    },
+    {
+        "0x471EcE3750Da237f93B8E339c536989b8978a438": "168.2591982740174190908",
+        "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58": "673.0367930960696763632"
+    }
+]

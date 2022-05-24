@@ -1,0 +1,75 @@
+{
+    "celoEthMap" : [
+    {"currentChainAddress":
+    "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
+    "tokenId": "ari-swap"},
+    {"currentChainAddress":
+    "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+    "tokenId": "wrapped-bitcoin"},
+    {"currentChainAddress":
+    "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+    "tokenId": "ethereum"},
+    {"currentChainAddress":
+    "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "tokenId": "celo"},
+    {"currentChainAddress":
+    "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "tokenId": "celo-dollar"},
+    {"currentChainAddress":
+    "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "tokenId": "celo-euro"},
+    {"currentChainAddress":
+    "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+    "tokenId": "celo-brazilian-real"},
+    {"currentChainAddress":
+    "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+    "tokenId": "mceur"},
+    {"currentChainAddress":
+    "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
+    "tokenId": "symmetric"},
+    {"currentChainAddress":
+    "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
+    "tokenId": "symmetricopticsv2"},
+    {"currentChainAddress":
+    "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "tokenId": "ubeswap"},
+    {"currentChainAddress":
+    "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+    "tokenId": "usdc"},
+    {"currentChainAddress":
+    "0xa81D9a2d29373777E4082d588958678a6Df5645c",
+    "tokenId": "knoxedge"},
+    {"currentChainAddress":
+    "0x918146359264C492BD6934071c6Bd31C854EDBc3",
+    "tokenId": "moolacusd"},
+    {"currentChainAddress":
+    "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
+    "tokenId": "mobius"},
+    {"currentChainAddress":
+    "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "tokenId": "moola-market"},
+    {"currentChainAddress":
+    "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
+    "tokenId": "wrapped-bitcoin-optics-v1"},
+    {"currentChainAddress":
+    "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+    "tokenId": "wrapped-bitcoin-optics-v2"},
+    {"currentChainAddress":
+    "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+    "tokenId": "weth-optics-v1"},
+    {"currentChainAddress":
+    "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+    "tokenId": "weth-optics-v2"},
+    {"currentChainAddress":
+    "0x00400FcbF0816bebB94654259de7273f4A05c762",
+    "tokenId": "poofcash"},
+    {"currentChainAddress":
+    "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+    "tokenId": "sushi"},
+    {"currentChainAddress":
+    "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+    "tokenId": "mcreal"},
+    {"currentChainAddress":
+    "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "tokenId": "impactMarket"}]
+    }

@@ -1,0 +1,659 @@
+[
+    {
+        "0x0219b6ccEB5bf8020a83634EA538e7F964eda1Ce": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "47.758473497371447086",
+                "factorUSD": "45.669389620352650088"
+            }
+        ],
+        "0x04e8e5aA372D8e2233D2EF26079e23E3309003D5": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "996.245995238931330656",
+                "factorUSD": "952.667520179154870941"
+            }
+        ],
+        "0x0dC437c879FaDa4Ac7E5554b0F8F1EE78343C26B": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "1.567981471103605497",
+                "factorUSD": "1.499393751043268069"
+            }
+        ],
+        "0x0e401C81611424ECcd0428f309bCD41ba3057112": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "82.472923882821353955",
+                "factorUSD": "78.865336726927786608"
+            }
+        ],
+        "0x157C41a2a1B4E5810Be2b009c093F3d78945C1Db": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "463.027480726783631129",
+                "factorUSD": "442.773415348077707141"
+            }
+        ],
+        "0x169833EBB85FBD3cb67eeC73Ed02f738c0017951": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "261.330015744616935891",
+                "factorUSD": "249.898739104185885982"
+            }
+        ],
+        "0x186E20ae3530520C9F3E6C46F2f5d1062b784761": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "181.995224494891140538",
+                "factorUSD": "174.034264662127237006"
+            }
+        ],
+        "0x1a7Bc3953662bFf98Cd90dC5929F61C5B8892E14": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "15.90079055559771287",
+                "factorUSD": "15.205247278164856615"
+            }
+        ],
+        "0x1Bec4f239F1Ec11FD8DC7B31A8fea7A5bA5a9Aa4": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "27.776639779196474448",
+                "factorUSD": "26.561614966402320355"
+            }
+        ],
+        "0x283F11aF2744282192640BB174fDbeC4a840a23e": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2344.988178289234127916",
+                "factorUSD": "2242.412098353736485778"
+            }
+        ],
+        "0x2949d0157Ef65a9226a4A0E0cFd0Ac52433520d9": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "35657.780064882230330527",
+                "factorUSD": "34098.013012697707080637"
+            }
+        ],
+        "0x2972a2Cd1E944a8Fa33cE3CB6beD2a55Db06b2b6": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "59.334685167242924915",
+                "factorUSD": "56.739226706082187505"
+            }
+        ],
+        "0x2Cb415b726A63472a4655672634d43e02cd42Ac1": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "3461.352649295772858538",
+                "factorUSD": "3309.943789615237137031"
+            }
+        ],
+        "0x3411f0ABEB610506FD970e9b990a864fc07ce5E3": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "50.664620380343984044",
+                "factorUSD": "48.448413834762497154"
+            }
+        ],
+        "0x343EF442adD9bd565D51b606f444F9221AD0Aeb6": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "15.564783649283971325",
+                "factorUSD": "14.883938216215542608"
+            }
+        ],
+        "0x39AfCd572798f999dEfc34a8eeaC781bed98F1A7": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "166.444479160992819796",
+                "factorUSD": "159.163750687685166365"
+            }
+        ],
+        "0x3B5d00E99A07AaF3120Cb4E811Cd8cE915B175CD": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "65.903214403401647668",
+                "factorUSD": "63.02043083492270774"
+            }
+        ],
+        "0x3cEbF7D0701CC8B431Ac40bbfCd0ef83A8b48220": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2877.532410705283810625",
+                "factorUSD": "2751.661415998254530291"
+            }
+        ],
+        "0x4Cd0dCD8EB96E8F02273e9Ca02F2D937A3b48418": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "5.754641870835363768",
+                "factorUSD": "5.502918382415217478"
+            }
+        ],
+        "0x507CC427C8Fba38b81E891549189E6718862Af45": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "1.196812381736239079",
+                "factorUSD": "1.144460594348410357"
+            }
+        ],
+        "0x5155b1f73716c71a6e19EcA9CDD4d1C20E1b5EE8": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "0.771392534355343239",
+                "factorUSD": "0.73764975347556678"
+            }
+        ],
+        "0x611dCd191690a60A4ed50021505882762c316Bc0": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "7.793965522317851222",
+                "factorUSD": "7.453036541168343592"
+            }
+        ],
+        "0x64cE9dc1931FDCeC0Fc99898Ca211E929C039bB3": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "26.644779010210159027",
+                "factorUSD": "25.479264826847022029"
+            }
+        ],
+        "0x73692E42db099B426885b9fB5D4B46EA7fFD4DAa": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "154.011515584033551362",
+                "factorUSD": "147.274638323927197182"
+            }
+        ],
+        "0x751f556a157f8cb70d5f37086664b437F339D914": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "4314.572276473890259482",
+                "factorUSD": "4125.841299142506731914"
+            }
+        ],
+        "0x81628532dB41F63c674C2b5627A02BeD6DDA576C": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "433.249579246830278725",
+                "factorUSD": "414.298079241715045075"
+            }
+        ],
+        "0x88933a893Dc0af768afa599da4e6F2F014b2e51c": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "155.131021416286382628",
+                "factorUSD": "148.345173964858552889"
+            }
+        ],
+        "0x8Ca858D9e2e339c6E4d386c75BB6FaDBd4F91075": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "1495.779267539673083093",
+                "factorUSD": "1430.349865748426524502"
+            }
+        ],
+        "0x8d224CB2E2C4AE5a057453A04A4D47d17d6E7d37": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "1100.69463899492211186",
+                "factorUSD": "1052.547299780408171155"
+            }
+        ],
+        "0x8F95F514653b0A2EF15cc96A8a762919043dE8c0": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "11459.934226750720198637",
+                "factorUSD": "10958.645930211709862825"
+            }
+        ],
+        "0x908562EaB1D7E9DF751b55e5f579645769746643": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "1.443640742431024594",
+                "factorUSD": "1.380492019736064732"
+            }
+        ],
+        "0x93A650E27ed3Fd2EFe127246569f187c6E09B6C6": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "595.978670216241656201",
+                "factorUSD": "569.908962794282728581"
+            }
+        ],
+        "0x94342870DF78A9e404011d85C053269dE2882882": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2495.603084908428936312",
+                "factorUSD": "2386.438704509890546914"
+            }
+        ],
+        "0x96cB6d73d37baB9B17855aEd9a584e5Aa5c15fd5": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "7.246414124530783243",
+                "factorUSD": "6.929436511865007132"
+            }
+        ],
+        "0x9E438f4e810fF667A49aa36268eC058De5fe027e": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "3216.909242122458223462",
+                "factorUSD": "3076.192993477688095363"
+            }
+        ],
+        "0xa3D85F0009b00b502e7c1EF39197D0bbBE3c33b3": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "90160.140438361078059268",
+                "factorUSD": "86216.293787778806201936"
+            }
+        ],
+        "0xA537636fe55DCDa148c131A041c24d16622Fc792": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "44.436355992115212989",
+                "factorUSD": "42.492590455687320434"
+            }
+        ],
+        "0xa86059823717Fe4Cc998699044b66BE2E4DC67C5": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2848.116873341516455477",
+                "factorUSD": "2723.532593228576380839"
+            }
+        ],
+        "0xAc31b377337037352F0673e66a0b473499355513": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "140.137069579069472047",
+                "factorUSD": "134.007097844390633914"
+            }
+        ],
+        "0xACDCE7fdae3f5E363A926BB31ADE3f8E5F84Ea6b": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "109.035755653463043637",
+                "factorUSD": "104.266238906518698448"
+            }
+        ],
+        "0xaF96Ce1e1952B2308eb36515867E041f32490EF4": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "547.368389627104491857",
+                "factorUSD": "523.425026411723177045"
+            }
+        ],
+        "0xb1F943C274cD6De2fEB91eF7827EDdA91e185e27": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "7229.304660653883259707",
+                "factorUSD": "6913.075461882274736607"
+            }
+        ],
+        "0xB7A149ecAE5F9764c1fF99D9e2DA7C83BaBE4748": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "58.839229369014282864",
+                "factorUSD": "56.265443474919825364"
+            }
+        ],
+        "0xbB6eec0B01309A5F55b7A6499FbFa33b0dB29BDF": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "1019.940388675388765269",
+                "factorUSD": "975.32545721994112451"
+            }
+        ],
+        "0xBD4446e43E3b20D7e350bF09a40ce44935c9804e": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "0.522660490367804568",
+                "factorUSD": "0.499797917014361555"
+            }
+        ],
+        "0xc5CD5c68f8ceA4eF08501ae5d627D6d6bef9C482": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "27.01443723145052864",
+                "factorUSD": "25.832753204843905084"
+            }
+        ],
+        "0xC8831DA607CDb0D5E062D9f798965574A86D027E": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2543.859200420299180091",
+                "factorUSD": "2432.583967946705391679"
+            }
+        ],
+        "0xCC2604E90c441A971C513F842918339b6cd5bD8B": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "229.549432891128665386",
+                "factorUSD": "219.508324285384413181"
+            }
+        ],
+        "0xD0243Ea0e33dc2c58FC501a81cf6Eb234A284c4c": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "21.39888916478049882",
+                "factorUSD": "20.462844290090029187"
+            }
+        ],
+        "0xd22c83D3165E6d0e6860E29D15D085D93538f13C": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "762.520681053095920217",
+                "factorUSD": "729.165978860424503128"
+            }
+        ],
+        "0xd4DC77165051bc2AeAdFf2C8A681B87163E47820": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "166.212488555815811632",
+                "factorUSD": "158.941907974544987968"
+            }
+        ],
+        "0xd4E231726B40458BE99B8C2cDc5dBC8dD16Dc7AA": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "388.140126529999154138",
+                "factorUSD": "371.161835119523369222"
+            }
+        ],
+        "0xD64B50ce579Ad4e622507e1f1590cDC00E9fE904": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "50.880521154424219341",
+                "factorUSD": "48.654870529224238748"
+            }
+        ],
+        "0xDd0282cD6Afb658aed6c46573696CC555b506018": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "24.566576130148668226",
+                "factorUSD": "23.49196812137566843"
+            }
+        ],
+        "0xdD5545E56d0FDDaa7e27D6E45301d3bB90ce9FA1": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "123.733255309274673247",
+                "factorUSD": "118.320830460061621509"
+            }
+        ],
+        "0xEa9258A513D115c017F0B1988D83892b8c028464": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2168.295599075610145311",
+                "factorUSD": "2073.448527029034342291"
+            }
+        ],
+        "0xec2FaF552039C707A202F6287B9BCc20E9C28D6b": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "2645.552331212682603558",
+                "factorUSD": "2529.82876812078241885"
+            }
+        ],
+        "0xf5433ADa2b03Db0380D8566Be17BC739d8a6e1Cc": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "7930.190126328117811052",
+                "factorUSD": "7583.302315194088561436"
+            }
+        ],
+        "0xF8C52579DdfdABA477E4FF12DB6CdFCf8d1e848D": [
+            {
+                "pool": "0x8b44535e5137595aebebe5942c024863ee5c0db6",
+                "feeFactor": "0.9961013694701175",
+                "balAndRatioFactor": "0.96",
+                "wrapFactor": "1",
+                "valueUSD": "301.806830190473292654",
+                "factorUSD": "288.60498899343902406"
+            }
+        ]
+    },
+    {
+        "0x0219b6ccEB5bf8020a83634EA538e7F964eda1Ce": "0.000308278154169356",
+        "0x04e8e5aA372D8e2233D2EF26079e23E3309003D5": "0.006430709652555716",
+        "0x0dC437c879FaDa4Ac7E5554b0F8F1EE78343C26B": "0.000010121228722063",
+        "0x0e401C81611424ECcd0428f309bCD41ba3057112": "0.000532357901785646",
+        "0x157C41a2a1B4E5810Be2b009c093F3d78945C1Db": "0.002988815316636892",
+        "0x169833EBB85FBD3cb67eeC73Ed02f738c0017951": "0.001686869972660114",
+        "0x186E20ae3530520C9F3E6C46F2f5d1062b784761": "0.001174768533546426",
+        "0x1a7Bc3953662bFf98Cd90dC5929F61C5B8892E14": "0.000102638673377677",
+        "0x1Bec4f239F1Ec11FD8DC7B31A8fea7A5bA5a9Aa4": "0.000179296585780303",
+        "0x283F11aF2744282192640BB174fDbeC4a840a23e": "0.015136761588323351",
+        "0x2949d0157Ef65a9226a4A0E0cFd0Ac52433520d9": "0.230168885544129531",
+        "0x2972a2Cd1E944a8Fa33cE3CB6beD2a55Db06b2b6": "0.00038300192368134",
+        "0x2Cb415b726A63472a4655672634d43e02cd42Ac1": "0.022342828979088873",
+        "0x3411f0ABEB610506FD970e9b990a864fc07ce5E3": "0.000327037162387597",
+        "0x343EF442adD9bd565D51b606f444F9221AD0Aeb6": "0.000100469768442467",
+        "0x39AfCd572798f999dEfc34a8eeaC781bed98F1A7": "0.001074389381609006",
+        "0x3B5d00E99A07AaF3120Cb4E811Cd8cE915B175CD": "0.00042540139586384",
+        "0x3cEbF7D0701CC8B431Ac40bbfCd0ef83A8b48220": "0.01857430347273457",
+        "0x4Cd0dCD8EB96E8F02273e9Ca02F2D937A3b48418": "0.000037145876824233",
+        "0x507CC427C8Fba38b81E891549189E6718862Af45": "0.000007725353951041",
+        "0x5155b1f73716c71a6e19EcA9CDD4d1C20E1b5EE8": "0.000004979293708876",
+        "0x611dCd191690a60A4ed50021505882762c316Bc0": "0.00005030959176306",
+        "0x64cE9dc1931FDCeC0Fc99898Ca211E929C039bB3": "0.000171990490692087",
+        "0x73692E42db099B426885b9fB5D4B46EA7fFD4DAa": "0.000994135328627793",
+        "0x751f556a157f8cb70d5f37086664b437F339D914": "0.027850311788019412",
+        "0x81628532dB41F63c674C2b5627A02BeD6DDA576C": "0.002796600703584357",
+        "0x88933a893Dc0af768afa599da4e6F2F014b2e51c": "0.00100136167332174",
+        "0x8Ca858D9e2e339c6E4d386c75BB6FaDBd4F91075": "0.009655167719447819",
+        "0x8d224CB2E2C4AE5a057453A04A4D47d17d6E7d37": "0.007104919541285972",
+        "0x8F95F514653b0A2EF15cc96A8a762919043dE8c0": "0.073973205414938689",
+        "0x908562EaB1D7E9DF751b55e5f579645769746643": "0.000009318616588211",
+        "0x93A650E27ed3Fd2EFe127246569f187c6E09B6C6": "0.003847007471641312",
+        "0x94342870DF78A9e404011d85C053269dE2882882": "0.016108972004669911",
+        "0x96cB6d73d37baB9B17855aEd9a584e5Aa5c15fd5": "0.000046775179503591",
+        "0x9E438f4e810fF667A49aa36268eC058De5fe027e": "0.020764961077460782",
+        "0xa3D85F0009b00b502e7c1EF39197D0bbBE3c33b3": "0.581978435209362913",
+        "0xA537636fe55DCDa148c131A041c24d16622Fc792": "0.000286834079904494",
+        "0xa86059823717Fe4Cc998699044b66BE2E4DC67C5": "0.018384427898865965",
+        "0xAc31b377337037352F0673e66a0b473499355513": "0.000904576590851801",
+        "0xACDCE7fdae3f5E363A926BB31ADE3f8E5F84Ea6b": "0.000703819427837464",
+        "0xaF96Ce1e1952B2308eb36515867E041f32490EF4": "0.003533230952496525",
+        "0xb1F943C274cD6De2fEB91eF7827EDdA91e185e27": "0.046664738914592368",
+        "0xB7A149ecAE5F9764c1fF99D9e2DA7C83BaBE4748": "0.000379803785471189",
+        "0xbB6eec0B01309A5F55b7A6499FbFa33b0dB29BDF": "0.006583655576867046",
+        "0xBD4446e43E3b20D7e350bF09a40ce44935c9804e": "0.000003373742907353",
+        "0xc5CD5c68f8ceA4eF08501ae5d627D6d6bef9C482": "0.000174376612897685",
+        "0xC8831DA607CDb0D5E062D9f798965574A86D027E": "0.016420462408947624",
+        "0xCC2604E90c441A971C513F842918339b6cd5bD8B": "0.001481728168430568",
+        "0xD0243Ea0e33dc2c58FC501a81cf6Eb234A284c4c": "0.000138128578447052",
+        "0xd22c83D3165E6d0e6860E29D15D085D93538f13C": "0.0049220264145157",
+        "0xd4DC77165051bc2AeAdFf2C8A681B87163E47820": "0.001072891895816196",
+        "0xd4E231726B40458BE99B8C2cDc5dBC8dD16Dc7AA": "0.002505421823675224",
+        "0xD64B50ce579Ad4e622507e1f1590cDC00E9fE904": "0.000328430789261388",
+        "0xDd0282cD6Afb658aed6c46573696CC555b506018": "0.000158575812605903",
+        "0xdD5545E56d0FDDaa7e27D6E45301d3bB90ce9FA1": "0.000798690928808863",
+        "0xEa9258A513D115c017F0B1988D83892b8c028464": "0.013996221320042015",
+        "0xec2FaF552039C707A202F6287B9BCc20E9C28D6b": "0.017076885622602151",
+        "0xf5433ADa2b03Db0380D8566Be17BC739d8a6e1Cc": "0.051188913617413976",
+        "0xF8C52579DdfdABA477E4FF12DB6CdFCf8d1e848D": "0.001948145443382833"
+    },
+    {
+        "0x765DE816845861e75A25fCA122bb6898B8B1282a": "73360.9698318622756308552",
+        "0x8427bD503dd3169cCC9aFF7326c15258Bc305478": "110041.4547477934134462828"
+    }
+]

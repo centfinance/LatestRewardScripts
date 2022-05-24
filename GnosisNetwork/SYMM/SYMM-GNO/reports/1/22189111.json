@@ -1,0 +1,54 @@
+[
+    {
+        "0x169833EBB85FBD3cb67eeC73Ed02f738c0017951": [
+            {
+                "pool": "0x623de087b6fdac0577acde44ae8e76ed7b3bf98b",
+                "feeFactor": "0.9975031223974601",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "70.955677554988265782",
+                "factorUSD": "70.778509912928172487"
+            }
+        ],
+        "0x458cD345B4C05e8DF39d0A07220feb4Ec19F5e6f": [
+            {
+                "pool": "0x623de087b6fdac0577acde44ae8e76ed7b3bf98b",
+                "feeFactor": "0.9975031223974601",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "100620.225187556119866326",
+                "factorUSD": "100368.988800922789881935"
+            }
+        ],
+        "0x544F8DC8a81EA9978B0C8E7B94eb67fA66F4e881": [
+            {
+                "pool": "0x623de087b6fdac0577acde44ae8e76ed7b3bf98b",
+                "feeFactor": "0.9975031223974601",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "0.167960234981851075",
+                "factorUSD": "0.167540858833007553"
+            }
+        ],
+        "0x689cC0Ea1140546a8a7985315E9C8fef7e0461bc": [
+            {
+                "pool": "0x623de087b6fdac0577acde44ae8e76ed7b3bf98b",
+                "feeFactor": "0.9975031223974601",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "6890.772756319890636162",
+                "factorUSD": "6873.567340160443369074"
+            }
+        ]
+    },
+    {
+        "0x169833EBB85FBD3cb67eeC73Ed02f738c0017951": "0.000872587035674394",
+        "0x458cD345B4C05e8DF39d0A07220feb4Ec19F5e6f": "1.237390819885522901",
+        "0x544F8DC8a81EA9978B0C8E7B94eb67fA66F4e881": "0.000002065513692548",
+        "0x689cC0Ea1140546a8a7985315E9C8fef7e0461bc": "0.084740209383291967"
+    },
+    {
+        "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb": "53656.751095927497269182",
+        "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84": "53656.751095927497269182"
+    }
+]

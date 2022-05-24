@@ -1,0 +1,24 @@
+[
+    {
+        "id": "0x1292a303cc41925c6d7ff64b013a5505924b32d0",
+        "publicSwap": true,
+        "swapFee": "0.004",
+        "controller": "0x39E0652264237A57Fd0EA0745eAF4bB4E0017419",
+        "createTime": 1642334163,
+        "tokensList": [
+            "0x29dfce9c22003a4999930382fd00f9fd6133acd1",
+            "0x765de816845861e75a25fca122bb6898b8b1282a"
+        ],
+        "totalShares": "671.663494773132233239",
+        "shareHolders": [
+            "0x1292a303Cc41925C6D7fF64B013a5505924B32d0",
+            "0x39E0652264237A57Fd0EA0745eAF4bB4E0017419",
+            "0x507CC427C8Fba38b81E891549189E6718862Af45",
+            "0x68291d9Ccf399F2c06d0f766C858ed0D5B4afA94",
+            "0x6C2e59C3cCB1d81c0eC9Fb9d4d6a3CC3488Fd71c",
+            "0xa3D85F0009b00b502e7c1EF39197D0bbBE3c33b3",
+            "0xc619dF868a695e54a39e9C3CF055941D435d0361",
+            "0xec2FaF552039C707A202F6287B9BCc20E9C28D6b"
+        ]
+    }
+]

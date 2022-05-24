@@ -1,0 +1,32 @@
+[
+    {
+        "0x458cD345B4C05e8DF39d0A07220feb4Ec19F5e6f": [
+            {
+                "pool": "0x99e7b45cde4ec4d329f9d6740acb6583fbf3f901",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "1962795.910599591397703799",
+                "factorUSD": "1960037.668693695186287914"
+            }
+        ],
+        "0xafD677bc7B527EBf4f51Def5d2C638104b6A83ce": [
+            {
+                "pool": "0x99e7b45cde4ec4d329f9d6740acb6583fbf3f901",
+                "feeFactor": "0.9985947383062085",
+                "balAndRatioFactor": "1",
+                "wrapFactor": "1",
+                "valueUSD": "99.657328152654014769",
+                "factorUSD": "99.517283526895480851"
+            }
+        ]
+    },
+    {
+        "0x458cD345B4C05e8DF39d0A07220feb4Ec19F5e6f": "1.984407768097070995",
+        "0xafD677bc7B527EBf4f51Def5d2C638104b6A83ce": "0.000100754630201725"
+    },
+    {
+        "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb": "980068.5929886110418644515",
+        "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1": "980068.5929886110418644515"
+    }
+]
